@@ -4,7 +4,9 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I don't know what I'm going to use this web's sight for. Probably just going to write about being a depressed piece of shit, starting therapy, all that kind of shit. A shout into the void so as to be less of an annoyance on social media platforms and to have less of a presence on all of those world-ruining places.
+
+This site is built using Jekyll and its default theme Minima.
 
 You can find the source code for Minima at GitHub:
 [jekyll][jekyll-organization] /
