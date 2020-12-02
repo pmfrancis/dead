@@ -5,7 +5,8 @@ date: 2020-11-04 22:00 -0400
 categories: blog
 ---
 
-[Archived video](https://youtu.be/QKftWroWvZ8){:target="_blank"}
+**Archived video**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QKftWroWvZ8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 - Wrekmeister Harmonies - "Still Life With Prick Cancer" _(We Love To Look at the Carnage)_
 - Protomartyr - "Day Without End" _(Ultimate Success Today)_
