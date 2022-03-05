@@ -17,6 +17,3 @@ _(also, within reason)_
 # other
 - **333 bits:** contemplative Joey
 - **any:** TTS is on extra loud today, so go wild
-
-# cumulative
-- **idfk 5000 or something:** I start and finish Bubsy 3D
