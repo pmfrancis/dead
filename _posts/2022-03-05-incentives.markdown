@@ -17,3 +17,8 @@ _(also, within reason)_
 # other
 - **333 bits:** contemplative Joey
 - **any:** TTS is on extra loud today, so go wild
+
+# cumulative stuff
+- **idfk 5000?:** I will play Super Mario Bros. 2 (Japan), i.e., "Lost Levels"
+- **more than that?:** play Bubsy 3D to completion
+- **basically any amount of money:** I promise to actually prepare for streams like this in the future
