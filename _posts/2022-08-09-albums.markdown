@@ -4,7 +4,7 @@ title: "That whole albums thing"
 date: 2022-08-09 04:00 -0500
 categories: blog
 ---
-<audio controls="controls" src="https://drive.google.com/uc?export=download&id=1s3_VEcGTvCnSR-0L_QNcuI8QcbZEMDyt">
+<audio controls="controls" src="https://drive.google.com/file/d/1s3_VEcGTvCnSR-0L_QNcuI8QcbZEMDyt/preview?usp=sharing">
     Something fucked up if you see this.
 </audio>
 
@@ -47,6 +47,7 @@ Hope even one person got anything out of this whole thing: if so, it is all wort
 I have taken a song from each album and turned it into a playlist/"mixtape", which you can listen to in one of two ways:
 - Streaming as a full mix, embedded at the top of this page, or
 - As downloadable FLAC/V0 MP3 + `.m3u8` playlist files.
+  
 **DOWNLOAD**: [FLAC](https://drive.google.com/uc?export=download&id=1lY0eSapyQAWGKFSRum_UHupGpOtVYSj4) / [V0 MP3](https://drive.google.com/uc?export=download&id=1STX3-KGnkQeqph4QXCVYflFP9_FiWOJy)
 
 Spotify can suck on my ass, not using it for the past two years has been one of the greatest decisions of my life. Files for life.
