@@ -8,13 +8,6 @@ categories: blog
     Something fucked up if you see this.
 </audio>
 
-<iframe
-  frameborder="0"
-  width="400"
-  height="200"
-  src="https://drive.google.com/file/d/1s3_VEcGTvCnSR-0L_QNcuI8QcbZEMDyt/preview?usp=sharing">
-</iframe>
-
 # Some background
 
 As a general guiding principle, I try not to pay much attention to Twitter's _quote prompt du jour_. But the one going around this past week gave me the opportunity to reflect on music I like and give recommendations to an audience I pretend actually cares, so I gave in and decided to engage in one of my favorite activities: putting a far greater amount of thought into it than it deserves.
