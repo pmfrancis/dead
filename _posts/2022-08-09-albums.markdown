@@ -4,6 +4,10 @@ title: "That whole albums thing"
 date: 2022-08-09 04:00 -0500
 categories: blog
 ---
+<audio controls="controls" src="https://drive.google.com/uc?export=download&id=1s3_VEcGTvCnSR-0L_QNcuI8QcbZEMDyt">
+    Something fucked up if you see this.
+</audio>
+
 # Some background
 
 As a general guiding principle, I try not to pay much attention to Twitter's _quote prompt du jour_. But the one going around this past week gave me the opportunity to reflect on music I like and give recommendations to an audience I pretend actually cares, so I gave in and decided to engage in one of my favorite activities: putting a far greater amount of thought into it than it deserves.
@@ -24,6 +28,12 @@ I tried to not end up with a list of just ambient or noise or whatever, but on a
 
 Which, I guess, all of this is to say: I picked whatever the hell I felt like, for whatever the hell reasons I felt like.
 
+# On _Modern Jester_
+
+Here's a weird one. I may have fucked up a little bit in that my choice for 2012, Aaron Dilloway's _Modern Jester_, was originally released on cassette and CDr in 2008. However, the seven track version released in 2012 is the one that got any degree of media coverage and is also the one you will find if you search for it now of days, so I'm as technically correct as I am technically incorrect. This probably would have been arbitrary enough a reason for me to exclude it had I known, but I didn't, so: "oh well".
+
+But it gets deeper: the liner notes of the 2012 version of _Modern Jester_ claim that it was recorded from 2008–2011. Maybe that means that the tracks on the original release were recorded in 2008 and the tracks new to the 2012 version were recorded later; maybe it means that all of the tracks were rerecorded for the 2012 version. Impossible to say without being able to hear the 2008 version or asking Aaron himself, which I am not going to do. There are whole Wolf Eyes _albums_ that were "rereleased" from CDrs but which in fact contained completely different recordings, so who can say what the case is here.
+
 # Etc., and so forth, blah blah blah
 
 I wanted to make this post so that I could explain some of the process in a way that simply isn't possible in Twitter posts. It was a fun little thought experiment and one that maybe I'll end up continuing regardless of the number of likes. I would have loved to get far enough to be able to start talking about The Butthole Surfers or Supreme Dicks or Thinking Fellers Union Local 282 or another frontrunner for "favorite of all-time", but I don't have enough Twitter presence to get there. Probably for the best.
@@ -35,15 +45,18 @@ Hope even one person got anything out of this whole thing: if so, it is all wort
 # The playlist
 
 I have taken a song from each album and turned it into a playlist/"mixtape", which you can listen to in one of two ways:
-- Streaming as a full mix, embedded below, or
-- As downloadable FLAC/MP3 + .m3u8 playlist files.
+- Streaming as a full mix, embedded at the top of this page, or
+- As downloadable FLAC/V0 MP3 + `.m3u8` playlist files.
+**DOWNLOAD**: [FLAC](https://drive.google.com/uc?export=download&id=1lY0eSapyQAWGKFSRum_UHupGpOtVYSj4) / [V0 MP3](https://drive.google.com/uc?export=download&id=1STX3-KGnkQeqph4QXCVYflFP9_FiWOJy)
 
 Spotify can suck on my ass, not using it for the past two years has been one of the greatest decisions of my life. Files for life.
+
+If you download the files, you should just be able to pop the included `.m3u8` playlist file into any music player so long as you keep it in the same directory as the music files. I definitely put a lot of work into making sure the playlist works correctly, but I can't guarantee it will work with, say, iTunes, which is a huge piece of shit and garbage and which does whatever it wants regardless of how little sense it might make. Definitely works in foobar2000 and VLC and the music player I use on my telephone.
 
 # The list in a more parsable form than a disjointed Twitter thread
 
 - **2022**: Duster - _Together_
-- **2021**: Floating Points & Pharoah Sanders with the London Symphony Orchestra - _Promises_
+- **2021**: Floating Points, Pharoah Sanders & the London Symphony Orchestra - _Promises_
 - **2020**: LEYA - _Flood Dream_
 - **2019**: Kali Malone - _The Sacrificial Code_
 - **2018**: Respire - _Dénouement_
